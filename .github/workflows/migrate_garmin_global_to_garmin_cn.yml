@@ -1,6 +1,6 @@
 name: Migrate Garmin Global to Garmin CN
 
- on:
+on:
    workflow_dispatch:
 
 env:
